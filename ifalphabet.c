@@ -8,7 +8,6 @@ int main (){
     if(letter>='A' && letter<='Z'){
         printf("It is a alphabet");
     }
-    
     else if(letter>='a' && letter<='z'){
         printf("It is a alphabet");
     }
